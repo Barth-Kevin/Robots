@@ -1,0 +1,16 @@
+{
+    "ProductBox": {
+        "screenshot": ".images\\productbox-screenshot.png",
+        "source": "https://www.ju-sports.de/search?p=1&q=4cm%20puzzlematte&o=7&n=96",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".box--basic:nth-child(1) > .box--content"
+    },
+    "SearchResults": {
+        "screenshot": ".images\\searchresults-screenshot.png",
+        "source": "https://www.ju-sports.de/search?p=1&q=4cm%20puzzlematte&o=7&n=96",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".listing--wrapper"
+    }
+}
