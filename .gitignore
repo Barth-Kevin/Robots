@@ -16,3 +16,8 @@ testrun/*
 .~lock*
 *.pkl
 .git
+google-image-search/
+purepython-rpa-challenge/
+rsb-robot/
+simple-web-scraper-shop/
+web-example-rpa-challenge/
